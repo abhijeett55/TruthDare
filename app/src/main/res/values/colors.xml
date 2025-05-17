@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryDark">#2475B0</color>
+    <color name="colorAccent">#4BCFFA</color>
+
+    <color name="primary_blue">#2196F3</color>        <!-- Material Blue 500 -->
+    <color name="dark_blue">#1565C0</color>           <!-- Material Blue 800 -->
+    <color name="light_blue">#BBDEFB</color>          <!-- Material Blue 100 -->
+    <color name="accent_blue">#448AFF</color>         <!-- Material Blue A200 -->
+
+
+    <color name="colorA">#FF7043</color>
+    <color name="colorP">#F57C00</color>
+    <color name="pastel_yellow">#FFF9C4</color>
+
+</resources>

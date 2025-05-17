@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TruthDare</string>
+    <string name="spin">Spin\n</string>
+    <string name="truth">Truth</string>
+    <string name="dare">Dare</string>
+    <string name="todo">TODO</string>
+    <string name="action_add">Add</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="get_pos">Get your position</string>
+    <string name="add_truth">Add Truth</string>
+    <string name="add_dare">Add Dare</string>
+    <string name="Or">or</string>
+    <string name="Start">Start</string>
+    <string name="sample_truth_question">Sample truth question</string>
+</resources>
