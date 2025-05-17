@@ -44,7 +44,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TruthDare.git
+   git clone https://github.com/abhijeett55/TruthDare.git
 Open the project in Android Studio
 
 Sync Gradle and build the project.
